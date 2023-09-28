@@ -20,4 +20,4 @@ six==1.16.0
 sqlalchemy==2.0.21
 sqlalchemy-serializer==1.4.1
 typing-extensions==4.7.1
-werkzeug==2.3.7
+werkzeug== 2.2.3
